@@ -1,0 +1,84 @@
+body {
+    width: 100vh;
+    background-color: #000000f2; 
+    font-family: 'Heebo', sans-serif;
+
+}
+header {
+    color: #d5d0d0;
+    display: flex;
+
+}
+
+.home {
+    margin-left: 247px;}
+
+header div {
+    cursor: pointer;
+    margin: 21px;
+}
+.dev {
+    height: 50px;
+    width: 50px;
+    position: relative;
+    top: 2px;
+    left: 197px;
+}
+
+.contact {
+    background-color: #1ad1af;
+    color: #000000f2;
+    width: 120px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+      top: 21px; 
+    right: 170px;
+    cursor: pointer;
+    
+}
+
+.pic {
+   
+    
+    width: 350px;
+    left: 211px;
+    position: absolute;
+    top: 103px;
+}
+
+.container {
+    width: 400px;
+    height: 400px;
+    top: 53px;
+    position: relative;
+    left: 659px;
+    display: block;
+    color:white
+}
+
+.cv {
+    color: #1ad1af;
+    width: 143px;
+    height: 45px;
+    flex-wrap: wrap;
+    display: flex;
+    align-items: center;
+    border-color: #1ad1af;
+    border-width: thin;
+    border-style: solid;
+    justify-content: center;
+    position: absolute;
+    top: 334px;
+    cursor: pointer;
+}
+
+h2 , .devolop 
+{
+    color:#1ad1af
+}
+p {
+    color:#d5d0d0
+}
